@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=100&section=header" alt="Cabeçalho Animado" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=700&color=FFFFFF&width=1000&lines=ㅤE+aí,+sou+Alisson+Sousa👋🏻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=700&color=FFFFFF&width=1000&lines=ㅤE+ai,+sou+Alisson+Sousa👋🏻)](https://git.io/typing-svg)
 
 ---
 
